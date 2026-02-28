@@ -1,15 +1,18 @@
 {
-  "name": "cinematic-storyboard-expert",
+  "name": "cinematic-storyboard-skill",
   "version": "1.2.0",
-  "description": "Professional Cinematic Storyboard & Script Doctor Skill.",
-  "author": "webkubor",
-  "license": "MIT",
+  "description": "Cinematic Storyboard Optimization & Script Doctoring Expert. Narrative logic and prompt engineering for AI video models.",
   "type": "module",
+  "author": "司南烛 (Si Nan Zhu)",
+  "license": "MIT",
+  "keywords": [
+    "storyboard",
+    "script-doctor",
+    "video-prompt",
+    "visual-narrative"
+  ],
+  "homepage": "https://github.com/webkubor/cinematic-storyboard-skill",
   "scripts": {
-    "install-skill": "gemini skills install .",
-    "package": "zip -r cinematic-storyboard-expert.skill . -x '.*' '__MACOSX' '.git/*'",
-    "check-update": "node scripts/check.js",
-    "update": "git pull origin master && npm run install-skill"
-  },
-  "keywords": ["gemini-cli", "cinematic", "storyboard", "sora", "kling"]
+    "validate": "node scripts/validate.js"
+  }
 }
