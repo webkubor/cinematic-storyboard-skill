@@ -1,7 +1,7 @@
 {
   "name": "cinematic-storyboard-skill",
-  "version": "1.2.0",
-  "description": "Cinematic Storyboard Optimization & Script Doctoring Expert. Narrative logic and prompt engineering for AI video models.",
+  "version": "1.2.1",
+  "description": "Universal Cinematic Storyboard & Script Doctoring Protocol. Visual narrative logic and model-agnostic prompt engineering for AI video tools.",
   "type": "module",
   "author": "司南烛 (Si Nan Zhu)",
   "license": "MIT",
@@ -9,7 +9,9 @@
     "storyboard",
     "script-doctor",
     "video-prompt",
-    "visual-narrative"
+    "visual-narrative",
+    "ai-skill",
+    "mcp"
   ],
   "homepage": "https://github.com/webkubor/cinematic-storyboard-skill",
   "scripts": {
