@@ -2,7 +2,7 @@
 name: cinematic-storyboard-skill
 description: "Universal Cinematic Storyboard & Script Doctoring Protocol. Optimized for Gemini 2.x Visual Narrative logic and high-fidelity video prompts."
 version: 1.2.2
-author: "司南烛 (Si Nan Zhu)"
+author: "webkubor"
 license: "MIT"
 keywords: ["storyboard", "script-doctor", "video-prompt", "visual-narrative", "storyboarding"]
 allowed-tools: ["run_command", "view_file"]
